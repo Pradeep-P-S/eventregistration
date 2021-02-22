@@ -9,7 +9,7 @@ To create a UX design and develop a web application for event registration.
 
 ![output](./static/img/l2.png)
 
-![output](./static/img/l3.png)
+
 
 ## WIREFRAME:
 
