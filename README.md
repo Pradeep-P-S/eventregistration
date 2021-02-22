@@ -291,11 +291,11 @@ def failed(request):
 ```
 
 ## OUTPUT:
-![output](./static/img/l1.png)
+![output](./static/img/r1.png)
 
-![output](./static/img/l2.png)
+![output](./static/img/r2.png)
 
-![output](./static/img/l3.png)
+![output](./static/img/r3.png)
 
 ## RESULT:
 Thus, a UX design and develop a web application for event registration has been done.
